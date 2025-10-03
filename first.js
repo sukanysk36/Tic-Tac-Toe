@@ -39,6 +39,7 @@ boxes.forEach((box) => {
     });
 });
 
+
 const disableBoxes = () => {
 
     for(let box of boxes) {
